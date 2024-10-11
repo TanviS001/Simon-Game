@@ -1,2 +1,2 @@
 # Simon Game
-The name says it all
+Practicing JQuery
